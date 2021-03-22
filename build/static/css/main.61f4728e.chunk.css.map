@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,eACF,CAEA,KACE,yEAEF","file":"main.61f4728e.chunk.css","sourcesContent":["body {\n  margin: 0;\n  font-size: 62.5%;\n}\n\ncode {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\n    monospace;\n}\n"]}
